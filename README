@@ -1,3 +1,3 @@
-Classic Tic-Tac-Toe -- you know the drill. Please let me know ASAP if you encounter issues.
+Classic Tic-Tac-Toe built in Python, using tkinter. Please let me know if you encounter any issues!
 
-Keep in mind that there is still some code I need to remove/change, but the program should function properly.
+Keep in mind that there is a known bug with rematching that I still need to fix, so that feature might be a bit finicky.
