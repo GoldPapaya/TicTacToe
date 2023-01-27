@@ -1,5 +1,3 @@
 Classic Tic-Tac-Toe built in Python, using tkinter. Please let me know if you encounter any issues!
 
 Keep in mind that there is a known bug with rematching that I still need to fix, so that feature might be a bit finicky.
-
-![Screenshot_5](https://github.com/GoldPapaya/TicTacToe/blob/489a430bcc4f21b15559f347d02059bab151c08d/Screenshot_5.jpg?raw=true)
